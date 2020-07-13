@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\z3esh\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\z3esh\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_The Fish Master.-2084559580.00" t="ExcludeRecursive" />
+    <e p="C:\Users\z3esh\Documents\UnityProjects\HyperCasualProjects\The Fish Master" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demigiant" t="Include">
+          <e p="DemiLib" t="Include">
+            <e p="Core" t="Include">
+              <e p="DemiLib.xml" t="Include" />
+            </e>
+          </e>
+          <e p="DOTween" t="Include">
+            <e p="DOTween43.xml" t="Include" />
+            <e p="DOTween46.xml" t="Include" />
+            <e p="DOTween50.xml" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="readme_DOTweenPro.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Fish Scripts" t="Include">
+            <e p="Fish.cs" t="Include" />
+            <e p="FishSpawner.cs" t="Include" />
+          </e>
+          <e p="Hook" t="Include">
+            <e p="Hook.cs" t="Include" />
+          </e>
+          <e p="Managers Script" t="Include">
+            <e p="IdleManager.cs" t="Include" />
+            <e p="Screens.cs" t="Include" />
+            <e p="ScreensManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="The Fish Master.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
